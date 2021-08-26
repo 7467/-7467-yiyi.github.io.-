@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "我的网站"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Dad,welcome!."
   links:
